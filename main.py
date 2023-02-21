@@ -4,7 +4,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 
 token = '6158331415:AAFoHRMQt-bGu2876Bnv65PvEJHsgzC8v6A'
-openai.api_key = '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'
+openai.api_key = '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'
 
 bot = Bot(token)
 dp = Dispatcher(bot)
